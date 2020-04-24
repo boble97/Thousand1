@@ -1,0 +1,7 @@
+6 주 차 오 픈 소 프 트 웨 어 실 습 과 제 제 출 입 니 다.
+오 늘 은 지 역 저 장 소 와  원 격 저 장 소 에 관 한 내 용 을  배 웠 습 니 다.
+mkdir(파 일 생 성)->git init->vim file.txt->git add file.txt
+->git commit -m "~~" -> git remote add origin 자 신 의 깃 허 브 주 소
+->git remote -v(원 격 저 장 소 와 연 결 되 어 있 는 지 확 인)
+->git push -u origin master(커 밋 된 파 일 을  원 격 저 장 소 에 올 림)
+->원 격 저 장 소 F5 키 를 눌 러 확 인
